@@ -1,6 +1,6 @@
 {
   "users": [
     { "email": "rashika.singhh@hotmail.com", "password": "rashika123" },
-    { "email": "admin@admin.com", "password": "admin123" },
+    { "email": "admin@admin.com", "password": "admin123" }
   ]
 }
